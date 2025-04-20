@@ -29,7 +29,7 @@ Yes, it’s unrelated. No, I will not stop.
 - Parts list / BOM
 - Versioned chaos
 - Chess log
-- 
+
 ## ⚠️ Disclaimer
 
 This is probably not the most efficient or practical PCB design. It's a personal project fueled by stubbornness, and the thrill of adding *just one more IC*.
