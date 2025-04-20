@@ -29,6 +29,9 @@ Yes, it’s unrelated. No, I will not stop.
 - Parts list / BOM
 - Versioned chaos
 - Chess log
+- [Chess.com account](https://www.chess.com/member/sahil_dasari) (sahil_dasari)
+- [Schematic Link](https://easyeda.com/editor#id=57cd4cf6bf704c8bab69746f71d15acf) (probally cannot access it)
+- [PCB Link](https://easyeda.com/editor#id=57cd4cf6bf704c8bab69746f71d15acf|faf1c3b9d2f243a3b150773973d005a1) (same thing)
 
 ## ⚠️ Disclaimer
 
