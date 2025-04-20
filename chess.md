@@ -1,6 +1,6 @@
 # Chess Log
 
-Username: sahil_dasari
+Username: [sahil_dasari](https://www.chess.com/member/sahil_dasari)
 
 ## Day 0
 Starting Elo: 970
